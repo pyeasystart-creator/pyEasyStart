@@ -1,0 +1,13 @@
+LICENSE
+LICENSE-AGPL-3.0
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+src/pyeasystart/__init__.py
+src/pyeasystart/cli.py
+src/pyeasystart.egg-info/PKG-INFO
+src/pyeasystart.egg-info/SOURCES.txt
+src/pyeasystart.egg-info/dependency_links.txt
+src/pyeasystart.egg-info/entry_points.txt
+src/pyeasystart.egg-info/top_level.txt

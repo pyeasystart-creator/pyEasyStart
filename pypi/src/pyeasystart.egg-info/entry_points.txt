@@ -1,0 +1,2 @@
+[console_scripts]
+pyeasystart = pyeasystart.cli:main

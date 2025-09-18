@@ -1,0 +1,11 @@
+LICENSE-AGPL-3.0 (Placeholder)
+
+Replace this file with the FULL, OFFICIAL text of the GNU Affero General Public License v3.0.
+You can obtain it from the Free Software Foundation (FSF).
+
+Notes:
+- Keep the text UNMODIFIED.
+- Your repository should include this file at the top level.
+- Reference this file from package manifests (Cargo.toml license-file, pyproject.toml license file).
+
+Until you replace this placeholder, your repository is missing the authoritative AGPL license text.

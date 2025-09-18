@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>pyEasyStart</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>pyEasyStart</h1>
+      <p class="sub">Detect Python • Create Envs • Install Packages</p>
+    </header>
+    <main>
+      <section class="card">
+        <h2>1) Detect Python</h2>
+        <button id="btn-detect">Scan</button>
+        <pre id="detect-out" class="log"></pre>
+      </section>
+      <section class="card">
+        <h2>2) Create Virtual Environment</h2>
+        <label>Base command (choose Python):
+  <select id="base-cmd-select">
+    <option value="">— scan first —</option>
+  </select>
+  <input id="base-cmd" type="hidden" />
+</label>
+
+        <label>Env path:
+          <input id="env-path" placeholder="C:\Users\you\envs\pyeasystart" />
+        </label>
+        <button id="btn-venv">Create venv</button>
+        <pre id="venv-out" class="log"></pre>
+      </section>
+      <section class="card">
+        <h2>3) Install Packages</h2>
+        <label>Env path:
+          <input id="env-path2" placeholder="same as above" />
+        </label>
+        <label>Packages (space separated):
+          <input id="packages" placeholder="pandas numpy requests" />
+        </label>
+        <button id="btn-install">Install</button>
+        <pre id="install-out" class="log"></pre>
+      </section>
+    </main>
+    <script type="module" src="main.js"></script>
+    <script src="https://unpkg.com/@tauri-apps/api@2.0.0/dist/index.umd.js"></script>
+<script>
+  const { invoke } = window.__TAURI__.core;
+</script>
+
+  </body>
+</html>

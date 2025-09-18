@@ -1,0 +1,53 @@
+Metadata-Version: 2.4
+Name: pyeasystart
+Version: 0.1.0
+Summary: pyEasyStart - GUI helper for Python: detect Python, create virtual environments, install packages.
+Home-page: https://github.com/Options-x-co/pyEasyStart
+Author: Options-x.co
+Author-email: pyeasystart@gmail.com
+Keywords: python,venv,packages,gui,tauri
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: 3.13
+Classifier: Environment :: Win32 (MS Windows)
+Classifier: Environment :: MacOS X
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Topic :: Software Development :: Libraries
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# pyEasyStart (PyPI)
+
+CLI shim & helpers for the pyEasyStart desktop app.
+
+## What is this?
+- Detect Python versions
+- Create virtual environments
+- Install packages into a selected env
+
+This package provides a small CLI entry point (`pyeasystart`) and shared helpers.
+The full GUI is a Tauri (Rust) desktop app shipped separately.
+
+## Install
+```bash
+pip install pyeasystart
+```
+
+## Usage
+```bash
+pyeasystart
+```
+
+## License
+Dual-licensed: **AGPL-3.0-only** or **Commercial**.
+If you are an organization and do not wish to comply with AGPL, contact pyeasystart@gmail.com.
