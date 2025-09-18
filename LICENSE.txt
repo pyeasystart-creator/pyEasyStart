@@ -1,0 +1,19 @@
+﻿Business Source License 1.1
+
+Licensor: Nine Software Pte Ltd
+Licensed Work: pyEasyStart Community Edition
+The Licensed Work is © 2025 Nine Software Pte Ltd
+
+Additional Use Grant:
+Free for individuals, students, educational, and other non-commercial use.
+
+Commercial Use:
+Use by any for-profit company, business, or organization requires a commercial license
+from Nine Software Pte Ltd.
+
+Change Date: 2029-01-01
+Change License: Apache 2.0
+
+On the Change Date, the Licensed Work will automatically be made available under
+the Apache License, Version 2.0. Before that date, use of the Licensed Work is
+governed by this Business Source License.

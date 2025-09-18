@@ -1,0 +1,26 @@
+﻿Proprietary License Agreement
+pyEasyStart Pro Edition© 2025 Nine Software Pte Ltd
+
+This Software is licensed, not sold. All rights reserved.
+
+1. Grant of License
+   Nine Software Pte Ltd grants Licensee a non-exclusive, non-transferable,
+   non-sublicensable license to install and use the Software only within
+   License™s organization.
+
+2. Restrictions
+   - Licensee may not redistribute, resell, sublicense, or make the Software
+     available to third parties without prior written consent.
+   - Licensee may not reverse engineer, decompile, or modify the Software.
+   - Licensee may not remove copyright, trademark, or other notices.
+
+3. Commercial Terms
+   - License is granted on a subscription or one-time fee basis.
+   - Updates and support are provided only during the active license term.
+   - Unauthorized use of the Software constitutes infringement.
+
+4. Termination
+   Nine Software Pte Ltd may terminate this license if Licensee breaches any term.
+   Upon termination, Licensee must uninstall and destroy all copies.
+
+This agreement is governed by the laws of Singapore.
